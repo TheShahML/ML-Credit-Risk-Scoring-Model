@@ -18,4 +18,4 @@ Python 3.13.7
 
 The project was developed on Windows 11, but it can run on any platform with the required Python version and libraries.
 
-Additionally, you would need to have Jupyter Notebooks installed in order to run the file.
+Additionally, you would need to have Jupyter Notebooks installed in order to run the file and would have to download the data straight from the Kaggle link provided above.
